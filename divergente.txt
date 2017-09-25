@@ -1,0 +1,5 @@
+Agua
+Aire
+Viento
+Fuego
+Corazon
