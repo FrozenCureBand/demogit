@@ -1,5 +1,5 @@
 Este es el archivo numero 4
 linea 1
-linea 2
+linea 2 con un nuevo cambio
 linea 3
 correspondientes al cambio 2 del archivo 4
