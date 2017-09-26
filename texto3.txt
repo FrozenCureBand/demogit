@@ -1,4 +1,0 @@
-Este es el archivo numero 3
-Este es otro cambio conflictivo en a
-Este sera el cambio conflictivo en b
-Este es el cambio de texto3 en rama experimental
